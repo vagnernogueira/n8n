@@ -20,7 +20,7 @@ Para funcionar a instalação de módulos da comunidade na tela settings do n8n
 $ podman machine set --rootful
 ```
 
-**Tavily**
+**[Módulo Tavily](https://tavily.com/])**
 
 >Quick Installation (tavily)
 
