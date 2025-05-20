@@ -1,5 +1,5 @@
 # Dockerfile
-# Customização para instalar módulos da comunidade direto na imagem a exemplo do Tavily
+# Customização para instalar módulos da comunidade direto na imagem a exemplo do módulo 'Tavily'
 
 FROM n8nio/n8n
 
