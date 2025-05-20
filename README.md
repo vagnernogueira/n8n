@@ -23,8 +23,13 @@ $ podman machine set --rootful
 **Tavily**
 
 >Quick Installation (tavily)
+
 >Go to Settings - Community Nodes
+
 >Select Install
+
 >Enter n8n-nodes-tavily in Enter npm package name
+
 >Agree to the risks of using community nodes
+
 >Select Install
